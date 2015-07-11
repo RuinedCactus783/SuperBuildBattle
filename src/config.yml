@@ -4,7 +4,7 @@ Metrics: true
 Language: en
 Rewards:
   Vault:
-    Enabled: false
+    Enabled: true
     Winner: 5
     Second: 5
     Third: 5
@@ -16,8 +16,8 @@ Rewards:
     Third: 5
     Rest: 5
   Command:
-    Enabled: false
-    Winner: ''
-    Second: ''
-    Third: ''
-    Rest: ''
+    Enabled: truw
+    Winner: 'bb leave'
+    Second: 'bb leave'
+    Third: 'bb leave'
+    Rest: 'bb leave'
